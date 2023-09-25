@@ -7,7 +7,7 @@
 - Coordinate on Discord the week before the event. If you are planning to run a game that covers sensitive topics, ensure someone is planning to run a lighter game so that we can include everybody.
 - Take two index cards, and draw a big X on each of them. These are your X-cards; your players can conspicuously tap them or pick them up to signal that a story element has made them uncomfortable, so you can rewind and choose another path.
 - Decide if and how you want to ask your players about their Lines and Veils. Lines are topics that are totally off-limits, and Veils are things that can happen off-screen but can't be a central part of the game (e.g. "fade to black"). You can ask for these aloud or have your players write them on cards and hand them to you. This is strongly encouraged for games that cover sensitive topics, and left to your discretion for lighter games.
-- Read this doc: https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html
+- Read [this doc about CATS](https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html).
 
 ## At the event
 - Ensure that someone gives a quick overview of the community standards.
