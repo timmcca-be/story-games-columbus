@@ -13,12 +13,12 @@
 - Ensure that someone gives a quick overview of the community standards.
 - When pitching your game, provide enough info for someone to decide whether they're interested. Specifically:
   - Concept
-  - Tone: what's typical, and what are the options.
+  - Tone: what's typical, what tonal options there are, and what movie rating games usually fall under (PG, PG-13, R, etc.).
   - Subject matter: what sensitive topics tend to come up, and which are unavoidable.
 - Once you sit down to play, run through CATS in more detail:
   - Concept: if it's worth elaborating, elaborate; otherwise just give a quick reminder of what you said before.
-  - Aim: see doc
-  - Tone: you gave the overview, so now it's time for the conversational part. Come to an agreement, and discuss a movie rating (PG, PG-13, R, etc.)
+  - Aim: see CATS doc.
+  - Tone: you gave the overview, so now it's time for the conversational part. Come to an agreement, and decide on a specific movie rating.
   - Subject matter: figure out what specifically is off-limits for your players. This is a good time to ask for Lines and Veils if you decided to do so.
 - Set out the X-cards so that everyone can reach one, and explain their purpose.
 - Have fun gaming! During the game:
