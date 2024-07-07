@@ -48,6 +48,8 @@ The Treasurer's duties shall include all of the following:
 - signaling the need for increased fundraising if the organization is not covering its costs
 - signaling the need to prevent fundraising or complete additional paperwork if the organization's annual revenue approaches the limit for an unincorporated nonprofit
 
+No person shall occupy the roles of President and Treasurer simultaneously.
+
 ## Article 4 | Voting Procedures
 
 Any Active Facilitator may propose a change to the bylaws or this organization's practices in #active-facilitators. Active Facilitators are strongly encouraged to present their proposals for discussion before calling for an official vote, so that other Active Facilitators may suggest amendments or alternative ideas. When an Active Facilitator submits their proposal for a vote, a member of the Executive Board shall start a vote with the proposal as the prompt and the following options:
