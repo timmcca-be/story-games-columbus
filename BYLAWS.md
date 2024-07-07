@@ -56,11 +56,11 @@ Any Active Facilitator may propose a change to the bylaws or this organization's
 
 All votes shall satisfy the following conditions:
 - The prompt and all options shall be clear and easy to understand.
-- The vote shall take place in #active-facilitators, conducted via the [EasyPoll](https://discord.com/application-directory/437618149505105920) Discord application or a similar fair, anonymous tool if EasyPoll becomes unavailable.
+- If the vote has two options, it shall take place in #active-facilitators, conducted via the [EasyPoll](https://discord.com/application-directory/437618149505105920) Discord application, and the result shall be decided by a simple majority. If the vote has three or more options, it shall be conducted via a ranked choice vote on [StrawPoll](https://strawpoll.com/) and sent out to all Active Facilitators via email. If the appropriate application for the vote is unavailable, a similar fair, anonymous tool shall be used in its place.
 - The vote shall be open for a minimum of 7 days (168 hours) and a maximum of 8 days (192 hours).
 - The vote shall close at 12am ET.
 
-The result of the vote shall be decided by plurality. Should the vote result in a change, that change shall take place immediately unless otherwise specified in the proposal.
+Should the vote result in a change, that change shall take place immediately unless otherwise specified in the proposal.
 
 ## Article 5 | Meetups
 
