@@ -13,6 +13,7 @@ When you become President,
 
 Throughout your term as President,
 - When you move, update the business location to your new home address with [Ohio Charitable Registration](https://charitableregistration.ohioattorneygeneral.gov/) and [the IRS](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes).
+- When the Bylaws are amended, have all members of the Executive Board sign them, including their full name and the date. [SignWell](https://www.signwell.com/) is a good free option. Once this is done, upload the signed Bylaws to [our Drive](https://drive.google.com/drive/folders/1iOQmm9OLk_h_PO_t4yrAgGoRAJ1fphzj?usp=drive_link).
 
 ## Treasurer
 
