@@ -8,7 +8,7 @@ The following shall be added to the Bylaws of Story Games Columbus, after Articl
 
 > ## Article # | Location
 >
-> The place in this state where the principal office of the Corporation is to be located is the City of _____, ____ County.
+> The place in this state where the principal office of the Corporation is to be located is the City of Columbus, Franklin County.
 
 The following shall be added to the Bylaws of Story Games Columbus, after Article 2 | Purpose:
 
