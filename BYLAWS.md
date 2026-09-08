@@ -71,7 +71,7 @@ A member of the Executive Board may ban a person from the organization under any
 -   the Executive Board unanimously votes to ban the person, with good cause
 -   the person commits an act deemed an Immediately Bannable Offense elsewhere in these Bylaws
 
-When banning a person, the Executive Board member must document the reason for the offense and inform the rest of the Executive Board.
+When banning a person, the Executive Board member must document the reason and inform the rest of the Executive Board.
 
 A banned person shall have their Regular Member role revoked, be barred from becoming a Regular Member, and be banned from the official Story Games Columbus Discord server. A ban may only be reversed via a unanimous vote by the Executive Board.
 
