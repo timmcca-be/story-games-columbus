@@ -52,15 +52,15 @@ See Article 4 for voting procedures.
 
 The President's duties shall include all of the following:
 
--   scheduling meetups and coordinating who will facilitate what games
--   attending and kicking off meetups, or appointing a fallback person if the President cannot attend
--   monitoring the health of this organization and signaling the need to change and opportunities for growth
+- scheduling meetups and coordinating who will facilitate what games
+- attending and kicking off meetups, or appointing a fallback person if the President cannot attend
+- monitoring the health of this organization and signaling the need to change and opportunities for growth
 
 The Treasurer's duties shall include all of the following:
 
--   tracking all revenue and expenses
--   signaling the need for increased fundraising if the organization is not covering its costs
--   signaling the need to prevent fundraising or complete additional paperwork if the organization's annual revenue approaches the limit for an unincorporated nonprofit
+- tracking all revenue and expenses
+- signaling the need for increased fundraising if the organization is not covering its costs
+- signaling the need to prevent fundraising or complete additional paperwork if the organization's annual revenue approaches the limit for an unincorporated nonprofit
 
 No person shall occupy the roles of President and Treasurer simultaneously.
 
@@ -68,8 +68,8 @@ No person shall occupy the roles of President and Treasurer simultaneously.
 
 A member of the Executive Board may ban a person from the organization under any of the following circumstances:
 
--   the Executive Board unanimously votes to ban the person, with good cause
--   the person commits an act deemed an Immediately Bannable Offense elsewhere in these Bylaws
+- the Executive Board unanimously votes to ban the person, with good cause
+- the person commits an act deemed an Immediately Bannable Offense elsewhere in these Bylaws
 
 When banning a person, the Executive Board member must document the reason and inform the rest of the Executive Board.
 
@@ -79,15 +79,15 @@ A banned person shall have their Regular Member role revoked, be barred from bec
 
 Any Active Facilitator may propose a change to the bylaws or this organization's practices in #active-facilitators. Active Facilitators are strongly encouraged to present their proposals for discussion before calling for an official vote, so that other Active Facilitators may suggest amendments or alternative ideas. When an Active Facilitator submits their proposal for a vote, a member of the Executive Board shall start a vote with the proposal as the prompt and the following options:
 
--   "Yes, I support this proposal"
--   "No, I do not support this proposal".
+- "Yes, I support this proposal"
+- "No, I do not support this proposal".
 
 All votes shall satisfy the following conditions:
 
--   The prompt and all options shall be clear and easy to understand.
--   If the vote has two options, it shall take place in #active-facilitators, conducted via the [EasyPoll](https://discord.com/application-directory/437618149505105920) Discord application, and the result shall be decided by a simple majority. If the vote has three or more options, it shall be conducted via a ranked choice vote on [StrawPoll](https://strawpoll.com/) and sent out to all Active Facilitators via email. If the appropriate application for the vote is unavailable, a similar fair, anonymous tool shall be used in its place.
--   The vote shall be open for a minimum of 7 days (168 hours) and a maximum of 8 days (192 hours).
--   The vote shall close at 12am ET.
+- The prompt and all options shall be clear and easy to understand.
+- If the vote has two options, it shall take place in #active-facilitators, conducted via the [EasyPoll](https://discord.com/application-directory/437618149505105920) Discord application, and the result shall be decided by a simple majority. If the vote has three or more options, it shall be conducted via a ranked choice vote on [StrawPoll](https://strawpoll.com/) and sent out to all Active Facilitators via email. If the appropriate application for the vote is unavailable, a similar fair, anonymous tool shall be used in its place.
+- The vote shall be open for a minimum of 7 days (168 hours) and a maximum of 8 days (192 hours).
+- The vote shall close at 12am ET.
 
 Should the vote result in a change, that change shall take place immediately unless otherwise specified in the proposal.
 
@@ -95,8 +95,8 @@ Should the vote result in a change, that change shall take place immediately unl
 
 Unless rescheduled or cancelled by the President, this organization shall meet on all of the following occasions:
 
--   remotely on this organization's official Discord server, on the first Tuesday of every month
--   at Tabletop Game Cafe in Columbus, OH, on the third Tuesday of every month
+- remotely on this organization's official Discord server, on the first Tuesday of every month
+- at Tabletop Game Cafe in Columbus, OH, on the third Tuesday of every month
 
 Members shall be welcomed starting at 6:30pm ET, and the meetup shall start in full at 7pm.
 
@@ -106,15 +106,15 @@ Please do not attend an in-person meetup if you are sick or have tested positive
 
 ## Article 10 | Electronic Communication
 
-The Electronic Communication policy applies to all online channels owned by Story Games Columbus, including but not limited to the official Story Games Columbus Discord server and Meetup group. Any communication found to be in violation of this policy may be removed by a member of the Executive Board.
-
 ### Section 1 | Self-Promotion
 
-Self-Promotion is defined as any communication sent for the purpose of promoting a paid good or service.
+Self-Promotion is defined as any communication sent for the purpose of promoting a paid good or service in an online channel owned by Story Games Columbus, including but not limited to the official Story Games Columbus Discord server and Meetup group.
 
 Self-Promotion is only allowed in the #community-content channel of the official Story Games Columbus Discord server.
 
 Only Regular Members who have attended at least one official meetup may engage in Self-Promotion. Violation of this rule constitutes an Immediately Bannable Offense.
+
+Any communication found to be in violation of this policy may be removed by a member of the Executive Board.
 
 ### Section 2 | Direct Solicitation
 
