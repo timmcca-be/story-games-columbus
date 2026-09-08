@@ -32,8 +32,6 @@ Anyone may deem themself a Regular Member. This organization shall not maintain 
 
 Regular Members may attend in-person and online meetups hosted by this organization (referred to henceforth as "meetups" or "a meetup"), as well as participate in discussions on this organization's Discord, Facebook, and Meetup pages.
 
-A person may be barred from becoming a Regular Member or have their Regular Member role revoked via a unanimous vote by the Executive Board, with good cause. After such a vote, the person may only become a Regular Member via another unanimous vote by the Executive Board.
-
 ### Section 2 | Active Facilitators
 
 To become an Active Facilitator, a person must be a Regular Member, must have facilitated a game for this organization at least once, and must have attended a meetup within the past six months. A person who meets this criteria should request that a member of the Executive Board assign them the Active Facilitator role on Discord.
@@ -66,6 +64,17 @@ The Treasurer's duties shall include all of the following:
 
 No person shall occupy the roles of President and Treasurer simultaneously.
 
+### Section 4 | Bans
+
+A member of the Executive Board may ban a person from the organization under any of the following circumstances:
+
+-   the Executive Board unanimously votes to ban the person, with good cause
+-   the person commits an act deemed an Immediately Bannable Offense elsewhere in these Bylaws
+
+When banning a person, the Executive Board member must document the reason for the offense and inform the rest of the Executive Board.
+
+A banned person shall have their Regular Member role revoked, be barred from becoming a Regular Member, and be banned from the official Story Games Columbus Discord server. A ban may only be reversed via a unanimous vote by the Executive Board.
+
 ## Article 7 | Voting Procedures
 
 Any Active Facilitator may propose a change to the bylaws or this organization's practices in #active-facilitators. Active Facilitators are strongly encouraged to present their proposals for discussion before calling for an official vote, so that other Active Facilitators may suggest amendments or alternative ideas. When an Active Facilitator submits their proposal for a vote, a member of the Executive Board shall start a vote with the proposal as the prompt and the following options:
@@ -94,3 +103,21 @@ Members shall be welcomed starting at 6:30pm ET, and the meetup shall start in f
 ## Article 9 | COVID-19 Policy
 
 Please do not attend an in-person meetup if you are sick or have tested positive for COVID-19 within the past 10 days.
+
+## Article 10 | Electronic Communication
+
+The Electronic Communication policy applies to all online channels owned by Story Games Columbus, including but not limited to the official Story Games Columbus Discord server and Meetup group. Any communication found to be in violation of this policy may be removed by a member of the Executive Board.
+
+### Section 1 | Self-Promotion
+
+Self-Promotion is defined as any communication sent for the purpose of promoting a paid good or service.
+
+Self-Promotion is only allowed in the #community-content channel of the official Story Games Columbus Discord server.
+
+Only Regular Members who have attended at least one official meetup may engage in Self-Promotion. Violation of this rule constitutes an Immediately Bannable Offense.
+
+### Section 2 | Direct Solicitation
+
+Direct Solicitation is defined as a direct message sent to an individual member for the purpose of promoting a paid good or service.
+
+Direct Solicitation is only allowed after getting explicit permission from the recipient, either in person or via a public channel in the official Story Games Columbus Discord server. Violation of this rule constitutes an Immediately Bannable Offense.
